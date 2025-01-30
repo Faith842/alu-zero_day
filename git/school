@@ -1,0 +1,3 @@
+echo School
+sed -i 's/echo "School"/echo "The school is open!"/'
+

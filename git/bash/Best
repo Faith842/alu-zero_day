@@ -1,0 +1,5 @@
+#!/bin/bash
+echo "Best"
+echo "Best School"
+sed -i 's/echo "Best"/echo "Best School"/'
+
